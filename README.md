@@ -9,7 +9,6 @@
 - 💬 Ask me about **anything related to CS or related to my degree**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding gif" width="400" height="250" src="https://th.bing.com/th/id/R.54c9af226721e95539a5cd9592d635bb?rik=pQNFNX3MXrFJdQ&riu=http%3a%2f%2fstore.outsourcingpundit.com%2fwp-content%2fuploads%2f2019%2f01%2ffocus-animation.gif&ehk=68Llss3Mjyn992cDHPwHGdT7F4pj746e%2fDDu6l4ZzHA%3d&risl=&pid=ImgRaw&r=0">
 <p align="left">
 <a href="https://twitter.com/ahmdbilal81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmdbilal81" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmdbilal81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmdbilal81" height="30" width="40" /></a>
@@ -25,6 +24,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmdbilal81&show_icons=true&locale=en&layout=compact" alt="ahmdbilal81" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmdbilal81&" alt="ahmdbilal81" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmdbilal81&show_icons=true&locale=en" alt="ahmdbilal81" /></p>
+
 
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bilalahmd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bilalahmd" /></a></p><br><br>
