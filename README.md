@@ -9,7 +9,7 @@
 - 💬 Ask me about **anything related to CS or related to my degree**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding gif" width="600" src="https://www.bing.com/images/search?view=detailV2&ccid=VMmvImch&id=F955AC5FFD9DCC722EC87549B15ECC7D354503A5&thid=OIP.VMmvImch6VU5pc2VktY1uwHaFj&mediaurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.54c9af226721e95539a5cd9592d635bb%3Frik%3DpQNFNX3MXrFJdQ%26riu%3Dhttp%253a%252f%252fstore.outsourcingpundit.com%252fwp-content%252fuploads%252f2019%252f01%252ffocus-animation.gif%26ehk%3D68Llss3Mjyn992cDHPwHGdT7F4pj746e%252fDDu6l4ZzHA%253d%26risl%3D%26pid%3DImgRaw%26r%3D0&exph=600&expw=800&q=Programmer+Animated+GIF&simid=608042201473942663&form=IRPRST&ck=9C328FDAA907473CA1D5A45B9FB7F432&selectedindex=20&itb=0&ajaxhist=0&ajaxserp=0&vt=0&sim=11">
+<img align="right" alt="Coding gif" width="600" src="https://th.bing.com/th/id/R.54c9af226721e95539a5cd9592d635bb?rik=pQNFNX3MXrFJdQ&riu=http%3a%2f%2fstore.outsourcingpundit.com%2fwp-content%2fuploads%2f2019%2f01%2ffocus-animation.gif&ehk=68Llss3Mjyn992cDHPwHGdT7F4pj746e%2fDDu6l4ZzHA%3d&risl=&pid=ImgRaw&r=0">
 <p align="left">
 <a href="https://twitter.com/ahmdbilal81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmdbilal81" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmdbilal81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmdbilal81" height="30" width="40" /></a>
