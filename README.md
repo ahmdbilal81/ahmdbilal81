@@ -28,6 +28,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmdbilal81&show_icons=true&locale=en" alt="ahmdbilal81" /></p>
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahmdbilal81&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmdbilal81&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdbilal81&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ahmdbilal81&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bilalahmd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bilalahmd" /></a></p><br><br>
 
