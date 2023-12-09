@@ -9,7 +9,7 @@
 - 💬 Ask me about **anything related to CS or related to my degree**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="![R](https://github.com/ahmdbilal81/ahmdbilal81/assets/138764971/d1545f25-00ae-4aff-bf93-09bfc64c8274)">
+<img align="right" alt="Coding gif" width="600" src="![R](https://github.com/ahmdbilal81/ahmdbilal81/assets/138764971/d1545f25-00ae-4aff-bf93-09bfc64c8274)">
 <p align="left">
 <a href="https://twitter.com/ahmdbilal81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmdbilal81" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmdbilal81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmdbilal81" height="30" width="40" /></a>
