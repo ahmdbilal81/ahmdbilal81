@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilal Ahmad</h1>
 <h3 align="center">A passionate Computer Science student</h3>
 
-(img align="right" alt="Coding" width="400" src="![R](https://github.com/ahmdbilal81/ahmdbilal81/assets/138764971/d1545f25-00ae-4aff-bf93-09bfc64c8274)")
+<img align="right" alt="Coding" width="400" src="![R](https://github.com/ahmdbilal81/ahmdbilal81/assets/138764971/d1545f25-00ae-4aff-bf93-09bfc64c8274)">
 
 
 - 🌱 I’m currently learning **Data Science from FAST-NU, Lahore**
