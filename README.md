@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bilal Ahmad</h1>
 <h3 align="center">A passionate Computer Science student</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmdbilal81&label=Profile%20views&color=0e75b6&style=flat" alt="ahmdbilal81" /> </p>
+
 - 🌱 I’m currently learning **Data Science from FAST-NU, Lahore**
 
 - 👨‍💻 Besides my Data Science degree I am also learning Android Development with Kotlin
