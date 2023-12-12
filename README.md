@@ -4,7 +4,11 @@
 
 - 🌱 I’m currently learning **Data Science from FAST-NU, Lahore**
 
+- 📚 Currently in my third semester.
+
 - 👨‍💻 Besides my Data Science degree I am also learning Android Development with Kotlin
+
+- 🌟 Dedicated to continuous learning and enhancing my skills. 
 
 - 💬 Ask me about **anything related to CS or related to my degree**
 
