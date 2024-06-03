@@ -6,8 +6,6 @@
 
 - 📚 Currently in my fourth semester.
 
-- 👨‍💻 Besides my Data Science degree I am also learning Android Development with Kotlin
-
 - 🌟 Dedicated to continuous learning and enhancing my skills. 
 
 - 💬 Ask me about **anything related to CS or related to my degree**
@@ -33,7 +31,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=ahmddbilall&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
-
-<h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/bilalahmd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bilalahmd" /></a></p><br><br>
 
