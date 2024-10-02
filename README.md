@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Data Science from FAST-NU, Lahore**
 
-- 📚 Currently in my fourth semester.
+- 📚 Currently in my fifth semester.
 
 - 🌟 Dedicated to continuous learning and enhancing my skills. 
 
