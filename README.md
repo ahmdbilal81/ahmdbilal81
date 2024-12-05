@@ -2,9 +2,7 @@
 <h3 align="center">A passionate Computer Science student</h3>
 
 
-- 🌱 I’m currently learning **Data Science from FAST-NU, Lahore**
-
-- 📚 Currently in my fifth semester.
+- 🌱 **Data Science**
 
 - 🌟 Dedicated to continuous learning and enhancing my skills. 
 
